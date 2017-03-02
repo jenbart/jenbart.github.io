@@ -1,16 +1,16 @@
- Site wide configuration
+# Site wide configuration
 
-title: Jennifer Schatz Bartlett
-locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+title:            Site Title
+locale:           en_US
+logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Jennifer Schatz Bartlett
+  name: Your Name
   avatar: bio-photo.jpg
-  bio: "Currently the Interim Associate Dean of Academic Affairs and Research at the University of Kentucky Libraries"
-  email: jen.bartlett@uky.edu
+  bio: "A brief description of yourself."
+  email: #emailaddress
   twitter: #username
   facebook: #username
   instagram: #username
