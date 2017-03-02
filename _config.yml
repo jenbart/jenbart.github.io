@@ -1,4 +1,4 @@
-# Site wide configuration
+ Site wide configuration
 
 title:            Jennifer Schatz Bartlett
 locale:           en_US
@@ -10,7 +10,7 @@ owner:
   name: Jennifer Schatz Bartlett
   avatar: bio-photo.jpg
   bio: "Currently the Interim Associate Dean of Academic Affairs and Research at the University of Kentucky Libraries"
-  email: #emailaddress
+  email: jen.bartlett@uky.edu
   twitter: #username
   facebook: #username
   instagram: #username
