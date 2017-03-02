@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Site wide configuration
+=======
+Site wide configuration
+>>>>>>> origin/master
 
 title:            Site Title
 locale:           en_US
@@ -7,7 +11,11 @@ logo:             # filename of a logo image that has been placed into your imag
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
+<<<<<<< HEAD
   name: Your Name
+=======
+  name: Jennifer Bartlett
+>>>>>>> origin/master
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
   email: #emailaddress
